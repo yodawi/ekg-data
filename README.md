@@ -2,4 +2,4 @@
 
 • the other files contains floats separated by commas with 
 
-(All the values are in mV and the sample rate is 500Hz)
+All the values are in mV and the sample rate is 500Hz
